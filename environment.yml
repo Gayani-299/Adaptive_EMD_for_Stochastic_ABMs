@@ -1,0 +1,12 @@
+name: emd
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - deap
+  - matplotlib     # Optional
+  - seaborn        # Optional
